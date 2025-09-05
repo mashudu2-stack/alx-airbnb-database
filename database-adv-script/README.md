@@ -8,3 +8,13 @@ This task demonstrates SQL joins in the Airbnb database.
 
 Files:
 - `joins_queries.sql`
+
+# Task 1: Subqueries
+
+This task demonstrates both correlated and non-correlated subqueries.
+
+- **Non-Correlated Subquery**: Finds all properties where the average rating is greater than 4.0.
+- **Correlated Subquery**: Finds users who have made more than 3 bookings.
+
+Files:
+- `subqueries.sql`
