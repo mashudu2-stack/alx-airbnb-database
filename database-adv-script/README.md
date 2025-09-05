@@ -28,3 +28,33 @@ This task demonstrates how to use SQL aggregation and window functions.
 
 Files:
 - `aggregations_and_window_functions.sql`
+
+# ALX Airbnb Database Project
+
+## Task 0: Joins
+- INNER JOIN, LEFT JOIN, FULL OUTER JOIN queries
+- File: joins_queries.sql
+
+## Task 1: Subqueries
+- Correlated and non-correlated subqueries
+- File: subqueries.sql
+
+## Task 2: Aggregations and Window Functions
+- COUNT + GROUP BY, ROW_NUMBER, RANK
+- File: aggregations_and_window_functions.sql
+
+## Task 3: Indexing
+- Created indexes for optimization
+- Files: database_index.sql, index_performance.md
+
+## Task 4: Query Optimization
+- Refactored complex queries
+- Files: perfomance.sql, optimization_report.md
+
+## Task 5: Partitioning
+- Partitioned bookings table by start_date
+- Files: partitioning.sql, partition_performance.md
+
+## Task 6: Performance Monitoring
+- Monitored and refined database queries
+- File: performance_monitoring.md
