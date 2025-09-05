@@ -18,3 +18,13 @@ This task demonstrates both correlated and non-correlated subqueries.
 
 Files:
 - `subqueries.sql`
+
+# Task 2: Aggregations and Window Functions
+
+This task demonstrates how to use SQL aggregation and window functions.
+
+- **Aggregation (COUNT + GROUP BY)**: Finds the total number of bookings per user.
+- **Window Functions (RANK, ROW_NUMBER)**: Ranks properties based on the total number of bookings received.
+
+Files:
+- `aggregations_and_window_functions.sql`
